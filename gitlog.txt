@@ -1,0 +1,23 @@
+commit 1059c651470a5213aafa2ec2ffffc16665eb44e5
+Author: aichitead25305 <aichitead25305@gmail.com>
+Date:   Tue Dec 23 16:10:21 2025 +0900
+
+    day1
+
+commit 76d763be776ed8489d1a0473e0826620a0d162e8
+Author: aichitead25305 <aichitead25305@gmail.com>
+Date:   Tue Dec 23 11:00:48 2025 +0900
+
+    kadai commit
+
+commit fa16c2d0b05f32e52ade1efcdfc3ecc8ef529ae9
+Author: aichitead25305 <aichitead25305@gmail.com>
+Date:   Tue Dec 23 10:11:44 2025 +0900
+
+    second commit
+
+commit 0f19df140b5403c4d748b5c5eb6c68d10c0218d2
+Author: aichitead25305 <aichitead25305@gmail.com>
+Date:   Tue Dec 23 10:04:00 2025 +0900
+
+    first commit
